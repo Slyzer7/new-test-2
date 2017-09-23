@@ -68,7 +68,11 @@ h6{
   color: #fff;
 }
 .section_head {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+}
+.paragraph-margin{
+  margin-left: 12%;
+  margin-right: 12%;
 }
 .section_head-sub{
   margin-top: 30px;
@@ -488,27 +492,26 @@ h6{
   height:2px;
   border:none;
   color: #DCDCDC;
-  background-color: #222;
+  background-color: #444;
 }
 .hr-line-two{
   height:2px;
   border:none;
-  color: #f5f5f5;
-  background-color: #222;
+  background-color: #444;
 }
 .hr-line-three{
   height:3px;
   border:none;
   margin-left: 7%;
   margin-right: 7%;
-  background-color: #222;
+  background-color: #444;
 }
 .hr-line-four{
   height:0px;
   border:none;
   margin-left: 7%;
   margin-right: 7%;
-  background-color: #222;
+  background-color: #444;
 }
 .hr-line-five{
   height:2px;
@@ -535,8 +538,8 @@ h6{
 .text-center-f-p{
   padding-top: 15px;
   text-align: center;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 11%;
+  margin-right: 11%;
 }
 .check-style{
   padding-right: 13px;
