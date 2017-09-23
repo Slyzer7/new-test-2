@@ -45,6 +45,7 @@ Author: SlyThemes
 @media (max-width: 767px){
   .section_head{
     text-align: center;
+    margin-bottom: 10px;
   }
 }
 @media (max-width: 480px){
@@ -339,8 +340,7 @@ Author: SlyThemes
     border:none;
     margin-left: 2%;
     margin-right: 2%;
-    color: #f5f5f5;
-    background-color: #f5f5f5;
+    background-color: #444;
   }
   .hr-line-three{
     height:2px;
