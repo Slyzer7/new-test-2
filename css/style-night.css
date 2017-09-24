@@ -370,7 +370,7 @@ h6{
   width: 50px;
   height: 50px;
   border-radius: 30px;
-  border: 1.8px solid #4D4C4C;
+  border: 1.8px solid #4682B4;
   cursor: pointer;
   z-index: 9;
 }
@@ -432,7 +432,7 @@ h6{
 /*Images should have a darker color palette*/
 .header.demo1 {
   /*url MUST be online url, Not within the img folder*/
-  background-image: url("http://via.placeholder.com/1920x1080");
+  background-image: url("../img/hamburg.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
@@ -737,7 +737,7 @@ h6{
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .numbers-container {
   /*url MUST be online url, Not within the img folder*/
-  background-image: url("http://via.placeholder.com/1920x1080");
+  background-image: url("../img/moon2.jpg");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -943,7 +943,7 @@ h6{
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .Reviews {
   /*url MUST be online url, Not within the img folder*/
-  background-image: url("http://via.placeholder.com/1920x1080");
+  background-image: url("../img/moon3.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1423,6 +1423,8 @@ footer .sub-footer {
 .main-logo{
   padding-top: 10px;
 }
+
+
 
 
 
