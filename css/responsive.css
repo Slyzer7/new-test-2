@@ -174,7 +174,7 @@ Author: SlyThemes
     margin-top: 20px;
     margin-bottom: 50px;
     border-radius: 30px;
-    border: 1.8px solid #4D4C4C;
+    border: 1.8px solid #4682B4;
     cursor: pointer;
     z-index: 9;
   }
@@ -207,6 +207,8 @@ Author: SlyThemes
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
+    width:100%;
+    height:auto;
   }
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
@@ -215,6 +217,8 @@ Author: SlyThemes
     background-size:cover;
     background-position:center;
     color: #DCDCDC;
+    width:100%;
+    height:auto;
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
@@ -222,6 +226,8 @@ Author: SlyThemes
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
+    width:100%;
+    height:auto;
   }
 }
 
