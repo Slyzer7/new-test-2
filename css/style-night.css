@@ -1226,7 +1226,7 @@ h6{
 }
 .News .post-content {
   padding: 30px 20px 15px;
-  background: #171717;
+  background: #333;
   border-radius: 25px;
 }
 .News .post-content h6 {
@@ -1235,7 +1235,7 @@ h6{
   font-weight: 300;
 }
 .News .post-content p {
-  color: #999;
+  color: #fff;
 }
 .News .post-content a span {
   color: #4682B4;
@@ -1343,7 +1343,7 @@ h6{
   color: #fff;
 }
 .open:after{
-  color: #fff;
+  color: #111;
 }
 .map-dimensions{
   height: 100%;
@@ -1423,8 +1423,6 @@ footer .sub-footer {
 .main-logo{
   padding-top: 10px;
 }
-
-
 
 
 
