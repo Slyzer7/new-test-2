@@ -11,38 +11,6 @@ Author: SlyThemes
     width: 90%;
   }
 }
-@media (max-width: 480px){
-  /*This is where you place your header background images*/
-  /*Images should have a darker color palette*/
-  .header.demo1 {
-    background-image: url("../img/moon2.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-    width:100%;
-    height:auto;
-  }
-  .numbers-container {
-    /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon2.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-    color: #DCDCDC;
-    width:100%;
-    height:auto;
-  }
-  .Reviews {
-    /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon2.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-    width:100%;
-    height:auto;
-  }
-}
-
 @media (max-width: 767px){
   .resp-col{
     width: 94%;
@@ -235,7 +203,7 @@ Author: SlyThemes
   /*This is where you place your header background images*/
   /*Images should have a darker color palette*/
   .header.demo1 {
-    background-image: url("http://via.placeholder.com/1080x720");
+    background-image: url("../img/moon2.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -244,7 +212,7 @@ Author: SlyThemes
   }
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("http://via.placeholder.com/1080x720");
+    background-image: url("../img/moon2.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -254,7 +222,39 @@ Author: SlyThemes
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("http://via.placeholder.com/1080x720");
+    background-image: url("../img/moon2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width:100%;
+    height:auto;
+  }
+}
+
+@media (max-width: 480px){
+  /*This is where you place your header background images*/
+  /*Images should have a darker color palette*/
+  .header.demo1 {
+    background-image: url("../img/moon2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width:100%;
+    height:auto;
+  }
+  .numbers-container {
+    /*url MUST be online url, Not within the img folder*/
+    background-image: url("../img/moon2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    color: #DCDCDC;
+    width:100%;
+    height:auto;
+  }
+  .Reviews {
+    /*url MUST be online url, Not within the img folder*/
+    background-image: url("../img/moon2.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
