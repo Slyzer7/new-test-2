@@ -211,7 +211,7 @@ Author: SlyThemes
   }
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/stars.jpg");
+    background-image: url("../img/moon3.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -219,7 +219,7 @@ Author: SlyThemes
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/stars.jpg");
+    background-image: url("../img/moon3.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
