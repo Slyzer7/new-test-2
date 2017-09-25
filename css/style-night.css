@@ -945,7 +945,6 @@ h6{
   /*url MUST be online url, Not within the img folder*/
   background-image: url("../img/moon3.jpg");
   background-size: cover;
-  background-position: center;
   background-attachment: fixed;
   position: relative;
 }
