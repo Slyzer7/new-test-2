@@ -203,66 +203,29 @@ Author: SlyThemes
   /*This is where you place your header background images*/
   /*Images should have a darker color palette*/
   .header.demo1 {
-    background-image: url("../img/moon2.jpg");
+    background-image: url("../img/moon3.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
-    width:100%;
-    height:auto;
+    width: 100%;
   }
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon2.jpg");
+    background-image: url("../img/moon3.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
-    color: #DCDCDC;
-    width:100%;
-    height:auto;
+    width: 100%;
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon2.jpg");
+    background-image: url("../img/moon3.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
-    width:100%;
-    height:auto;
+    width: 100%;
   }
 }
-
-@media (max-width: 480px){
-  /*This is where you place your header background images*/
-  /*Images should have a darker color palette*/
-  .header.demo1 {
-    background-image: url("../img/moon2.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-    width:100%;
-    height:auto;
-  }
-  .numbers-container {
-    /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon2.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-    color: #DCDCDC;
-    width:100%;
-    height:auto;
-  }
-  .Reviews {
-    /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon2.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-    width:100%;
-    height:auto;
-  }
-}
-
 
 
 @media (max-width: 767px){
