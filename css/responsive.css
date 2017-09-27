@@ -215,6 +215,7 @@ Author: SlyThemes
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
+    background-attachment: scroll
     width: 100%;
   }
   .Reviews {
@@ -223,6 +224,7 @@ Author: SlyThemes
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
+    background-attachment: scroll
     width: 100%;
   }
 }
