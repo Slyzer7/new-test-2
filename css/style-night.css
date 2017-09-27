@@ -737,10 +737,7 @@ h6{
 .numbers-container {
   /*url MUST be online url, Not within the img folder*/
   background-image: url("../img/moon2.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  position: relative;
-  color: #DCDCDC;
+  background-attachment:scroll;
 }
 .numbers-container:after {
   content: "";
