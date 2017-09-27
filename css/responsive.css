@@ -212,10 +212,9 @@ Author: SlyThemes
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
     background-image: url("../img/stars.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 87%;
-    background-position: 250px 0;
+    background-size: cover;
+  background-attachment: fixed;
+  position: relative;
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
