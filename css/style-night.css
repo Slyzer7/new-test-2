@@ -738,6 +738,8 @@ h6{
   /*url MUST be online url, Not within the img folder*/
   background-image: url("../img/moon2.jpg");
   background-attachment:scroll;
+	background-size: cover;
+	background-position: center;
 }
 .numbers-container:after {
   content: "";
