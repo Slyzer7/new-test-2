@@ -199,7 +199,7 @@ Author: SlyThemes
 }
 
 
-@media (max-width: 767px){
+@media (max-width: 1280px){
   /*This is where you place your header background images*/
   /*Images should have a darker color palette*/
   .header.demo1 {
@@ -211,16 +211,17 @@ Author: SlyThemes
   }
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/stars.jpg");
-    background-attachment:scroll;
+    background-image: url("../img/moon3.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position:center;
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/stars.jpg");
-    background-repeat:no-repeat;
-    background-size: contain;
+    background-image: url("../img/moon3.jpg");
+    background-size: cover;
+    background-attachment: scroll;
     background-position:center;
-    width: 100%;
   }
 }
 
