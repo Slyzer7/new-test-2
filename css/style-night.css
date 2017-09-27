@@ -17,14 +17,13 @@ Index Of CSS:
     :: 8. Progress Cirlce
     :: 9. Price
     :: 10. Reviews
-    :: 11. Video Emblem
-    :: 12. Fade-In Animation
-    :: 13. Services
-    :: 14. Works
-    :: 15. News
-    :: 16. Contact
-    :: 17. Map
-    :: 18. Footer
+    :: 11. Fade-In Animation
+    :: 12. Services
+    :: 13. Works
+    :: 14. News
+    :: 15. Contact
+    :: 16. Map
+    :: 17. Footer
 		
 */
 
@@ -1006,73 +1005,7 @@ h6{
 
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    11 - Video-emblem
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
-
-  #emblem {
-    -moz-align-items: center;
-    -webkit-align-items: center;
-    -ms-align-items: center;
-    align-items: center;
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
-    display: flex;
-    -moz-justify-content: center;
-    -webkit-justify-content: center;
-    -ms-justify-content: center;
-    justify-content: center;
-    padding: 8em 4em 6em 4em;
-    min-height: 80vh;
-    border-top: 0;
-    position: relative;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  .vid-color{
-    color: #fff;
-  }
-
-    #emblem .inner {
-      text-align: center;
-      position: relative;
-      z-index: 2;
-    }
-
-    #emblem h2 {
-      color: #fff;
-      font-size: 2.5em;
-      font-weight: 200;
-      font-family: 'Source Sans Pro';
-      margin: 0;
-    }
-
-    #emblem p {
-      color: rgba(255, 255, 255, 0.85);
-      font-size: 1.3em;
-      font-weight: 200;
-    }
-
-    #emblem video {
-      -moz-transform: translateX(50%) translateY(50%);
-      -webkit-transform: translateX(50%) translateY(50%);
-      -ms-transform: translateX(50%) translateY(50%);
-      transform: translateX(50%) translateY(50%);
-      position: absolute;
-      bottom: 50%;
-      right: 50%;
-      width: 80%;
-      height: auto;
-      min-width: 85%;
-      min-height: 100%;
-      overflow: hidden;
-    }
-
-
-
-/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    12 - Fade-In Animation
+                    11 - Fade-In Animation
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 .hide-me {
@@ -1081,7 +1014,7 @@ h6{
     
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    13 - Services
+                    12 - Services
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .services {
   padding-bottom: 0;
@@ -1169,7 +1102,7 @@ h6{
 
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    14 - Works
+                    13 - Works
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .Works {
   overflow: hidden;
@@ -1218,7 +1151,7 @@ h6{
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    15 - News
+                    14 - News
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .News {
   background: #0F0F0F;
@@ -1258,7 +1191,7 @@ h6{
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    16 - Contact
+                    15 - Contact
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .contact .info {
   margin-bottom: 80px;
@@ -1303,7 +1236,7 @@ h6{
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    17 - Map
+                    16 - Map
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .map {
   margin: 0 auto;
@@ -1351,7 +1284,7 @@ h6{
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-                    18 - Footer
+                    17 - Footer
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 footer {
   background: #111;
