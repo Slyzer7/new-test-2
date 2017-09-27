@@ -213,18 +213,16 @@ Author: SlyThemes
     /*url MUST be online url, Not within the img folder*/
     background-image: url("../img/stars.jpg");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size: 100%;
     background-position:center;
-    background-attachment: scroll
     width: 100%;
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
     background-image: url("../img/stars.jpg");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size: 640px 1000px !important;
     background-position:center;
-    background-attachment: scroll
     width: 100%;
   }
 }
