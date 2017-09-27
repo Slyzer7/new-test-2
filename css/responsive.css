@@ -224,7 +224,7 @@ padding:0;
     /*url MUST be online url, Not within the img folder*/
     background-image: url("../img/stars.jpg");
     background-repeat:no-repeat;
-    background-size: 640px 1000px !important;
+    background-size: contain;
     background-position:center;
     width: 100%;
   }
