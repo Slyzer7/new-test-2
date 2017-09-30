@@ -218,7 +218,7 @@ Author: SlyThemes
   }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon3.jpg");
+    background-image: url("../img/milky-way-night.jpg");
     background-size: cover;
     background-attachment: scroll;
     background-position:center;
