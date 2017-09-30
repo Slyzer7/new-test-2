@@ -278,6 +278,9 @@ Author: SlyThemes
     padding: 0 10px 0;
   }
 
+}
+
+@media (max-width: 1280px){
   .reverse_pd{
     margin-bottom: -40px;
   }
