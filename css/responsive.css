@@ -203,7 +203,7 @@ Author: SlyThemes
   /*This is where you place your header background images*/
   /*Images should have a darker color palette*/
   .header.demo1 {
-    background-image: url("../img/moon3.jpg");
+    background-image: url("../img/fairyland-canyon-night.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -211,7 +211,7 @@ Author: SlyThemes
   }
   .numbers-container {
     /*url MUST be online url, Not within the img folder*/
-    background-image: url("../img/moon3.jpg");
+    background-image: url("../img/mountain-night.jpg");
     background-size: cover;
     background-attachment: scroll;
     background-position:center;
@@ -276,6 +276,10 @@ Author: SlyThemes
 
   .Works .filtering span{
     padding: 0 10px 0;
+  }
+
+  .reverse_pd{
+    margin-bottom: -40px;
   }
 }
 
