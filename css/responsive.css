@@ -10,6 +10,10 @@ Author: SlyThemes
     margin-left: 5%;
     width: 90%;
   }
+  .Our_Team_Sec:hover, .Our_Team_Sec:active{
+    margin-left: 5%;
+    width: 90%;
+  }
 }
 @media (max-width: 767px){
   .resp-col{
